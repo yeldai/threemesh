@@ -1,1 +1,1 @@
-# Thre.js doodling with the examples
+# Three.js doodling with the examples
