@@ -1,1 +1,1 @@
-# getting-started-with-threejs
+# Thre.js doodling with the examples
